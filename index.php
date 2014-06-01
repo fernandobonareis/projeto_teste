@@ -1,6 +1,5 @@
 <?php
 	
-	echo "Hello World";
+	echo "Fernando de Bona";
 
-	echo "Mais um linha";
 ?>
